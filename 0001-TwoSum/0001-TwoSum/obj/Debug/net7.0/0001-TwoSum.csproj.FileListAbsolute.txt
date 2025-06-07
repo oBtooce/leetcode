@@ -1,0 +1,5 @@
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0001-TwoSum\0001-TwoSum\obj\Debug\net7.0\0001-TwoSum.csproj.AssemblyReference.cache
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0001-TwoSum\0001-TwoSum\obj\Debug\net7.0\0001-TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0001-TwoSum\0001-TwoSum\obj\Debug\net7.0\0001-TwoSum.AssemblyInfoInputs.cache
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0001-TwoSum\0001-TwoSum\obj\Debug\net7.0\0001-TwoSum.AssemblyInfo.cs
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0001-TwoSum\0001-TwoSum\obj\Debug\net7.0\0001-TwoSum.csproj.CoreCompileInputs.cache
